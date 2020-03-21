@@ -40,4 +40,4 @@ refresh launcher in GameShell though executing reload app, after that, execute O
 
 ### Refences
 
-[Occillofun: a magical audio, which can be viewed on the oscilloscope with download link]([https://www.bilibili.com/video/av862814](https://www.bilibili.com/video/av862814))
+[Oscillofun: a magical audio, which can be viewed on the oscilloscope with download link](https://www.bilibili.com/video/av862814)
