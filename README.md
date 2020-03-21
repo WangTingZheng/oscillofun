@@ -39,7 +39,7 @@ pip3 install -r requirements.txt
 
 refresh launcher in GameShell though executing reload app, after that, execute Oscillofun app in launcher, you will see a video  displaying wave in Oscilloscope(simulation).
 
-Only for desktop? you can execute
+only for desktop? you can execute
 ```shell
 python(3) oscillofun.py
 ```
