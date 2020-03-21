@@ -39,6 +39,18 @@ pip3 install -r requirements.txt
 
 refresh launcher in GameShell though executing reload app, after that, execute Oscillofun app in launcher, you will see a video  displaying wave in Oscilloscope(simulation).
 
+Only for desktop? you can execute
+```shell
+python(3) oscillofun.py
+```
+
+or
+
+```shell
+./Oscillofun.sh
+```
+### Creation
+want to create amazing oscilloscope music? Maybe you should get software, tutorial from this [man](https://www.jerobeamfenderson.net/)(software and works need to buy) or listen music by [Atom Delta](http://atomdelta.se/)!
 ### Refences
 
 [Oscillofun: a magical audio, which can be viewed on the oscilloscope with download link](https://www.bilibili.com/video/av862814)
