@@ -8,13 +8,7 @@ Oscilloscope music for GameShell
     </a>
 </p>
 
-### Requirements
 
-```shell
-pip3 install -r requirements.txt
-```
-
-**Note: If requirements do not install successfully, please do it manually by installing whl file** 
 
 ### Install
 
@@ -31,11 +25,18 @@ cd /home/cpi/launcher/Menu/GameShell
 git clone https://github.com/WangTingZheng/oscillofun 11_Oscillofun
 ```
 
-refreash lanucher in GameShell thought exeuting reload app
+### Requirements
+
+```shell
+pip3 install -r requirements.txt
+```
+
+**Note: If requirements do not install successfully, please do it manually by installing .whl file!**
+
 
 ### Play
 
-execute Oscillofun app in lanuncher, you will see a video likes displaying wave in Oscilloscope
+refresh launcher in GameShell though executing reload app, after that, execute Oscillofun app in launcher, you will see a video  displaying wave in Oscilloscope(simulation).
 
 ### Refences
 
