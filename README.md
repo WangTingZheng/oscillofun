@@ -2,7 +2,7 @@
 
 Oscilloscope music for GameShell
 
-![show](./image/head.jpg)
+<img src="./image/head.jpg"  align=center />
 
 ### Requirements
 
