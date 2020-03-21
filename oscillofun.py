@@ -14,7 +14,7 @@ BGCOLOR = (0,0,0) #branco
 FPS = 25
 
 wav = 'oscillofun-wave.wav'
-wf = wave.open(r'oscillofun-wave.wav', 'rb')
+wf = wave.open(r'./wav/oscillofun-wave.wav', 'rb')
 READ_LENGTH = (int)(wf.getframerate()/FPS)
 
 pygame.init()
