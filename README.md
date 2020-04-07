@@ -29,7 +29,7 @@ git clone https://github.com/WangTingZheng/oscillofun 11_Oscillofun
 
 ```shell
 cd /home/cpi/launcher/Menu/GameShell/11_Oscillofun
-pip3 install -r requirements.txt
+sudo pip3 install -r requirements.txt
 ```
 
 **Note: If requirements do not install successfully, please do it manually by installing .whl file!**
